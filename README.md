@@ -54,7 +54,8 @@ TOKEN = "Your_Discord_BOT_TOKEN"
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate  # or .venv\\Scripts\\activate on Windows
-pip install -r requirements.txt
+pip install discord.py==2.3.2
+
 
 
 
