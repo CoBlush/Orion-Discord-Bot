@@ -1,0 +1,19 @@
+| Command                      | Description                             |
+| ---------------------------- | --------------------------------------- |
+| `!verify`                    | Send verification button to the user    |
+| `!jail @user`                | Manually jail a user                    |
+| `!unjail @user`              | Remove jail role                        |
+| `!jailtemp @user <s>`        | Temporarily jail a user for <s> seconds |
+| `!auditlog`                  | Show recent incident log entries        |
+| `!downloadlog`               | DM a text file of logs                  |
+| `!setlog #channel`           | Designate where logs are sent           |
+| `!lockdown on/off`           | Enable or disable server lockdown       |
+| `!paniclock`                 | Emergency lockdown + slowmode           |
+| `!slowmode <s>`              | Set global channel slowmode             |
+| `!antiraid <mode>`           | Configure anti-raid protection          |
+| `!blacklist_add/remove`      | Manage blacklisted users                |
+| `!whitelist_add/remove`      | Manage whitelisted users                |
+| `!config timeout <s>`        | Set auto-verification timeout           |
+| `!config spam_threshold <n>` | Set spam detection level                |
+| `!makesecadmin @user`        | Assign secbo role to a user             |
+| `!unmakesecadmin @user`      | Remove secbo role from a user           |
