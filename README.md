@@ -52,8 +52,6 @@ TOKEN = "Your_Discord_BOT_TOKEN"
 ### Installation
 
 ```bash
-git clone https://github.com/your-org/discord-security-bot.git
-cd discord-security-bot
 python3 -m venv .venv
 source .venv/bin/activate  # or .venv\\Scripts\\activate on Windows
 pip install -r requirements.txt
