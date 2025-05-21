@@ -1,11 +1,3 @@
-from pathlib import Path
-
-# Updated README content with secbo role requirement
-readme_content = """# 🛡️ Discord Security Bot (Orion)
-
-A multi-server, auto-sharded security bot built with `discord.py` that provides verification, jail management, anti-raid protection, audit logging, and more. Designed for moderation and anti-abuse in active Discord communities.
-
----
 
 ## 🚀 Features
 
